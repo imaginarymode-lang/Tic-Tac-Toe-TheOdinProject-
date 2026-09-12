@@ -84,6 +84,4 @@ My main priority is to understand enough first, and then improve my code step by
 
 ## Live Project
 
-Add your live project link here:
-
 **Live Demo:** [(https://imaginarymode-lang.github.io/Tic-Tac-Toe-TheOdinProject-/)]
